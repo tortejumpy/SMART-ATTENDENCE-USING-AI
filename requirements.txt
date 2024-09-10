@@ -1,0 +1,10 @@
+
+### `requirements.txt`
+
+
+cx_Freeze
+numpy
+opencv-python
+Pillow
+pandas
+tkinter
